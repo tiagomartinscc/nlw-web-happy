@@ -6,5 +6,5 @@ Projeto do NLW da Rocketseat para estudo do React.
 
 ## Resources
 
-- [x] HTML, SCSS, JS, REACT
+- [x] HTML, SCSS, TYPESCRIPT, REACT
 - [x] SVG Images
